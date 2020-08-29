@@ -6,9 +6,11 @@ Analysis of employees nearing retirement and mentorship program proposal for Pew
 - There are 1549 employees eligible for the mentorhsip program. (See figure 2.)
 
 ![Figure 1](https://github.com/timbannock/pewlett-hackard-analysis/blob/master/analysis/retiring_titles.PNG)
+
 **Figure 1**
 
 ![Figure 2](https://github.com/timbannock/pewlett-hackard-analysis/blob/master/analysis/mentorship_eligibility.PNG)
+
 **Figure 2**
 
 ## Summary
