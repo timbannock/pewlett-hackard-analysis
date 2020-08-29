@@ -2,10 +2,12 @@
 Analysis of employees nearing retirement and mentorship program proposal for Pewlett Hackard.
 
 ## Results
-- There are 90,398 retiring titles; they have been organized by title.
-[INSERT analysis/retiring_titles.PNG]
-- There are 1549 employees eligible for the mentorhsip program.
-[INSERT analysis/mentorship_eligibility.PNG]
+- There are 90,398 retiring titles; they have been organized by title. (See figure 2.)
+- There are 1549 employees eligible for the mentorhsip program. (See figure 2.)
+
+![Figure 1](https://github.com/timbannock/pewlett-hackard-analysis/blob/master/analysis/retiring_titles.PNG)
+
+![Figure 2](https://github.com/timbannock/pewlett-hackard-analysis/blob/master/analysis/mentorship_eligibility.PNG)
 
 ## Summary
 
